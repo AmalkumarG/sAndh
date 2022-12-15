@@ -2,4 +2,7 @@
 
 # Sample Output
 
-![SamdHGif](https://user-images.githubusercontent.com/102892250/207540166-bdd037ff-9b44-4477-8eed-f36b17d0e462.gif)
+
+https://user-images.githubusercontent.com/102892250/207799451-57431e13-3050-45b9-adc8-80a7b78b7f0e.mp4
+
+
